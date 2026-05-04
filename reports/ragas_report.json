@@ -1,0 +1,111 @@
+{
+  "aggregate": {
+    "faithfulness": 0.8650639336010854,
+    "answer_relevancy": 0.5029138697387924,
+    "context_precision": 0.09070764749817353,
+    "context_recall": 0.8804505135387488
+  },
+  "num_questions": 25,
+  "failures": [
+    {
+      "question": "Chủ thể dữ liệu có quyền phản đối xử lý dữ liệu để làm gì?",
+      "worst_metric": "context_precision",
+      "score": 0.06473615044329688,
+      "avg_score": 0.33463641856320514,
+      "diagnosis": "Irrelevant chunks retrieved",
+      "suggested_fix": "Add stronger reranking and metadata filters.",
+      "expected": "Để ngăn chặn hoặc hạn chế tiết lộ dữ liệu cá nhân hoặc sử dụng cho mục đích quảng cáo, tiếp thị.",
+      "got": "Không tìm thấy thông tin trong tài liệu."
+    },
+    {
+      "question": "Dữ liệu cá nhân có được mua bán không?",
+      "worst_metric": "context_precision",
+      "score": 0.03154031958379785,
+      "avg_score": 0.35163507989594944,
+      "diagnosis": "Irrelevant chunks retrieved",
+      "suggested_fix": "Add stronger reranking and metadata filters.",
+      "expected": "Không được mua, bán dưới mọi hình thức, trừ trường hợp luật có quy định khác.",
+      "got": "Không tìm thấy thông tin trong tài liệu."
+    },
+    {
+      "question": "Dữ liệu cá nhân được lưu trữ trong bao lâu?",
+      "worst_metric": "context_precision",
+      "score": 0.1015926640926641,
+      "avg_score": 0.43348640131728366,
+      "diagnosis": "Irrelevant chunks retrieved",
+      "suggested_fix": "Add stronger reranking and metadata filters.",
+      "expected": "Chỉ được lưu trữ trong khoảng thời gian phù hợp với mục đích xử lý dữ liệu.",
+      "got": "Không tìm thấy thông tin trong tài liệu."
+    },
+    {
+      "question": "Sự im lặng của chủ thể dữ liệu có được coi là đồng ý không?",
+      "worst_metric": "context_precision",
+      "score": 0.06989247311827956,
+      "avg_score": 0.4705981182795699,
+      "diagnosis": "Irrelevant chunks retrieved",
+      "suggested_fix": "Add stronger reranking and metadata filters.",
+      "expected": "Không, sự im lặng hoặc không phản hồi không được coi là sự đồng ý.",
+      "got": "Không tìm thấy thông tin trong tài liệu."
+    },
+    {
+      "question": "Nếu không thể chỉnh sửa dữ liệu cá nhân thì phải thông báo sau bao lâu?",
+      "worst_metric": "context_precision",
+      "score": 0.11237390044054128,
+      "avg_score": 0.5020518084434686,
+      "diagnosis": "Irrelevant chunks retrieved",
+      "suggested_fix": "Add stronger reranking and metadata filters.",
+      "expected": "Thông báo tới chủ thể dữ liệu sau 72 giờ kể khi nhận được yêu cầu chỉnh sửa.",
+      "got": "Không tìm thấy thông tin trong tài liệu."
+    },
+    {
+      "question": "Vi phạm quy định bảo vệ dữ liệu cá nhân có thể bị xử lý thế nào?",
+      "worst_metric": "context_precision",
+      "score": 0.06900117311882019,
+      "avg_score": 0.5380836266130383,
+      "diagnosis": "Irrelevant chunks retrieved",
+      "suggested_fix": "Add stronger reranking and metadata filters.",
+      "expected": "Có thể bị xử lý kỷ luật, xử phạt vi phạm hành chính, hoặc xử lý hình sự.",
+      "got": "Vi phạm quy định bảo vệ dữ liệu cá nhân có thể bị xử lý kỷ luật, xử phạt vi phạm hành chính, hoặc xử lý hình sự theo quy định."
+    },
+    {
+      "question": "Thông báo xử lý dữ liệu cá nhân được thực hiện khi nào?",
+      "worst_metric": "context_precision",
+      "score": 0.10711548987411057,
+      "avg_score": 0.5503856836140384,
+      "diagnosis": "Irrelevant chunks retrieved",
+      "suggested_fix": "Add stronger reranking and metadata filters.",
+      "expected": "Được thực hiện một lần trước khi tiến hành hoạt động xử lý dữ liệu cá nhân.",
+      "got": "Thông báo xử lý dữ liệu cá nhân được thực hiện một lần trước khi tiến hành hoạt động xử lý dữ liệu cá nhân."
+    },
+    {
+      "question": "Nêu một hành vi bị nghiêm cấm theo Điều 8.",
+      "worst_metric": "context_precision",
+      "score": 0.11869725313121542,
+      "avg_score": 0.5713409799494705,
+      "diagnosis": "Irrelevant chunks retrieved",
+      "suggested_fix": "Add stronger reranking and metadata filters.",
+      "expected": "Xử lý dữ liệu cá nhân trái với quy định của pháp luật về bảo vệ dữ liệu cá nhân.",
+      "got": "Một hành vi bị nghiêm cấm theo Điều 8 là việc thu thập, sử dụng hoặc tiết lộ thông tin cá nhân mà không có sự đồng ý rõ ràng của người sở hữu dữ liệu."
+    },
+    {
+      "question": "Theo Điều 2, dữ liệu cá nhân là gì?",
+      "worst_metric": "context_precision",
+      "score": 0.06561996779388084,
+      "avg_score": 0.5820299919484702,
+      "diagnosis": "Irrelevant chunks retrieved",
+      "suggested_fix": "Add stronger reranking and metadata filters.",
+      "expected": "Là thông tin gắn liền với một con người cụ thể hoặc giúp xác định một con người cụ thể.",
+      "got": "Theo Điều 2, dữ liệu cá nhân là thông tin dưới dạng ký hiệu, chữ viết, chữ số, hình ảnh, âm thanh hoặc dạng tương tự trên môi trường điện tử gắn liền với một con người cụ thể hoặc giúp xác định một con người cụ thể."
+    },
+    {
+      "question": "Một nghĩa vụ của chủ thể dữ liệu theo Điều 10 là gì?",
+      "worst_metric": "context_precision",
+      "score": 0.09810745762124912,
+      "avg_score": 0.586744058975448,
+      "diagnosis": "Irrelevant chunks retrieved",
+      "suggested_fix": "Add stronger reranking and metadata filters.",
+      "expected": "Cung cấp đầy đủ, chính xác dữ liệu cá nhân khi đồng ý cho phép xử lý dữ liệu cá nhân.",
+      "got": "Một nghĩa vụ của chủ thể dữ liệu theo Điều 10 là tự bảo vệ dữ liệu cá nhân của mình và yêu cầu các tổ chức, cá nhân liên quan bảo vệ dữ liệu của mình."
+    }
+  ]
+}

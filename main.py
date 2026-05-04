@@ -10,6 +10,14 @@ Usage:
 import json
 import os
 import time
+import sys
+import shutil
+
+try:
+    sys.stdout.reconfigure(encoding="utf-8")
+    sys.stderr.reconfigure(encoding="utf-8")
+except Exception:
+    pass
 
 
 def main():
@@ -34,9 +42,12 @@ def main():
     prod_results = evaluate_pipeline(search, reranker)
 
     # Move reports to reports/
-    for f in ["ragas_report.json", "naive_baseline_report.json"]:
+    for f in ["ragas_report.json", "naive_baseline_report.json", "production_outputs.json"]:
         if os.path.exists(f):
-            os.rename(f, f"reports/{f}")
+            target = f"reports/{f}"
+            if os.path.exists(target):
+                os.remove(target)
+            shutil.move(f, target)
 
     # Step 3: Comparison
     print("\n📌 STEP 3: Comparison")

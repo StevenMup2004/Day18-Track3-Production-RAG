@@ -8,6 +8,11 @@ Basic = paragraph chunking + dense-only search (không hybrid, không rerank, kh
 import sys, os, time
 
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
+try:
+    sys.stdout.reconfigure(encoding="utf-8")
+    sys.stderr.reconfigure(encoding="utf-8")
+except Exception:
+    pass
 
 from src.m1_chunking import load_documents, chunk_basic
 from src.m2_search import DenseSearch

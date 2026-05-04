@@ -1,142 +1,413 @@
-# NGHI DINH 13/2023/ND-CP - BAO VE DU LIEU CA NHAN (TRICH YEU NOI DUNG)
+CHÍNH PHỦ  
+CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM  
+Độc lập - Tự do - Hạnh phúc  
+Số: 13/2023/NĐ-CP  
+Hà Nội, ngày 17 tháng 4 năm 2023  
 
-Nguon: Toan van Nghi dinh 13/2023/ND-CP (Cong TTDT Chinh phu).
+NGHỊ ĐỊNH  
+Bảo vệ dữ liệu cá nhân  
 
-## Dieu 1. Pham vi dieu chinh va doi tuong ap dung
+Căn cứ Luật Tổ chức Chính phủ ngày 19 tháng 6 năm 2015; Luật sửa đổi, bổ sung một số điều của Luật Tổ chức Chính phủ và Luật Tổ chức chính quyền địa phương ngày 22 tháng 11 năm 2019;  
+Căn cứ Bộ luật Dân sự ngày 24 tháng 11 năm 2015;  
+Căn cứ Luật An ninh quốc gia ngày 03 tháng 12 năm 2004;  
+Căn cứ Luật An ninh mạng ngày 12 tháng 6 năm 2018;  
+Theo đề nghị của Bộ trưởng Bộ Công an;  
+Chính phủ ban hành Nghị định bảo vệ dữ liệu cá nhân.  
 
-1. Nghi dinh nay quy dinh ve bao ve du lieu ca nhan va trach nhiem bao ve du lieu ca nhan cua co quan, to chuc, ca nhan co lien quan.
+Chương I  
+NHỮNG QUY ĐỊNH CHUNG  
 
-2. Nghi dinh nay ap dung doi voi:
-- Co quan, to chuc, ca nhan Viet Nam;
-- Co quan, to chuc, ca nhan nuoc ngoai tai Viet Nam;
-- Co quan, to chuc, ca nhan Viet Nam hoat dong tai nuoc ngoai;
-- Co quan, to chuc, ca nhan nuoc ngoai truc tiep tham gia hoac co lien quan den hoat dong xu ly du lieu ca nhan tai Viet Nam.
+Điều 1. Phạm vi điều chỉnh và đối tượng áp dụng  
+1. Nghị định này quy định về bảo vệ dữ liệu cá nhân và trách nhiệm bảo vệ dữ liệu cá nhân của cơ quan, tổ chức, cá nhân có liên quan.  
+2. Nghị định này áp dụng đối với:  
+a) Cơ quan, tổ chức, cá nhân Việt Nam;  
+b) Cơ quan, tổ chức, cá nhân nước ngoài tại Việt Nam;  
+c) Cơ quan, tổ chức, cá nhân Việt Nam hoạt động tại nước ngoài;  
+d) Cơ quan, tổ chức, cá nhân nước ngoài trực tiếp tham gia hoặc có liên quan đến hoạt động xử lý dữ liệu cá nhân tại Việt Nam.
 
-## Dieu 2. Giai thich tu ngu
 
-1. Du lieu ca nhan la thong tin duoi dang ky hieu, chu viet, chu so, hinh anh, am thanh hoac dang tuong tu tren moi truong dien tu gan lien voi mot con nguoi cu the hoac giup xac dinh mot con nguoi cu the.
+**Điều 2. Giải thích từ ngữ**
 
-3. Du lieu ca nhan co ban bao gom:
-- Ho, chu dem va ten khai sinh;
-- Ngay, thang, nam sinh;
-- Gioi tinh;
-- Noi sinh, noi thuong tru, noi tam tru, noi o hien tai, que quan;
-- Quoc tich;
-- Hinh anh cua ca nhan;
-- So dien thoai, so CMND/CCCD, so dinh danh ca nhan, so ho chieu...
+Trong Nghị định này, các từ ngữ dưới đây được hiểu như sau:
 
-4. Du lieu ca nhan nhay cam bao gom:
-- Quan diem chinh tri, quan diem ton giao;
-- Tinh trang suc khoe va doi tu duoc ghi trong ho so benh an;
-- Thong tin lien quan den nguon goc chung toc, nguon goc dan toc;
-- Thong tin ve doi song tinh duc, xu huong tinh duc;
-- Du lieu ve toi pham, hanh vi pham toi duoc thu thap boi co quan thuc thi phap luat;
-- Du lieu vi tri cua ca nhan duoc xac dinh qua dich vu dinh vi.
+1. Dữ liệu cá nhân là thông tin dưới dạng ký hiệu, chữ viết, chữ số, hình ảnh, âm thanh hoặc dạng tương tự trên môi trường điện tử gắn liên với một con người cụ thể hoặc giúp xác định một con người cụ thể. Dữ liệu cá nhân bao gồm dữ liệu cá nhân cơ bản và dữ liệu cá nhân nhạy cảm.
 
-7. Xu ly du lieu ca nhan la mot hoac nhieu hoat dong tac dong toi du lieu ca nhan nhu: thu thap, luu tru, chinh sua, truy cap, cung cap, chuyen giao, xoa, huy du lieu ca nhan.
+2. Thông tin giúp xác định một con người cụ thể là thông tin hình thành từ hoạt động của cá nhân mà khi kết hợp với các dữ liệu, thông tin lưu trữ khác có thể xác định một con người cụ thể.
 
-8. Su dong y cua chu the du lieu la viec the hien ro rang, tu nguyen, khang dinh viec cho phep xu ly du lieu ca nhan cua chu the du lieu.
+3. Dữ liệu cá nhân cơ bản bao gồm:
 
-14. Chuyen du lieu ca nhan ra nuoc ngoai la hoat dong su dung khong gian mang, thiet bi, phuong tien dien tu hoac hinh thuc khac chuyen du lieu ca nhan cua cong dan Viet Nam toi mot dia diem nam ngoai lanh tho Viet Nam.
+   a) Họ, chữ đệm và tên khai sinh, tên gọi khác (nếu có);
+   
+   b) Ngày, tháng, năm sinh; ngày, tháng, năm chết hoặc mất tích;
+   
+   c) Giới tính;
+   
+   d) Nơi sinh, nơi đăng ký khai sinh, nơi thường trú, nơi tạm trú, nơi ở hiện tại, quê quán, địa chỉ liên hệ;
+   
+   d) Quốc tịch;
+   
+   e) Hình ảnh của cá nhân;
+   
+   g) Số điện thoại, số chứng minh nhân dân, số định danh cá nhân, số hộ chiếu, số giấy phép lái xe, số biển số xe, số mã số thuế cá nhân, số bảo hiểm xã hội, số thẻ bảo hiểm y tế;
+   
+   h) Tình trạng hôn nhân;
+   
+   i) Thông tin về mối quan hệ gia đình (cha mẹ, con cái);
+   
+   k) Thông tin về tài khoản số của cá nhân; dữ liệu cá nhân phản ánh hoạt động, lịch sử hoạt động trên không gian mạng;
+   
+   l) Các thông tin khác gắn liên với một con người cụ thể hoặc giúp xác định một con người cụ thể không thuộc quy định tại khoản 4 Điều này.
 
-## Dieu 3. Nguyen tac bao ve du lieu ca nhan
+4. Dữ liệu cá nhân nhạy cảm là dữ liệu cá nhân gắn liền với quyền riêng tư của cá nhân mà khi bị xâm phạm sẽ gây ảnh hưởng trực tiếp tới quyền và lợi ích hợp pháp của cá nhân gồm:
 
-1. Du lieu ca nhan duoc xu ly theo quy dinh cua phap luat.
-2. Chu the du lieu duoc biet ve hoat dong lien quan toi xu ly du lieu ca nhan cua minh.
-3. Du lieu ca nhan chi duoc xu ly dung voi muc dich da dang ky, tuyen bo.
-4. Du lieu ca nhan thu thap phai phu hop va gioi han trong pham vi, muc dich can xu ly.
-5. Du lieu ca nhan duoc cap nhat, bo sung phu hop voi muc dich xu ly.
-6. Du lieu ca nhan duoc ap dung bien phap bao ve, bao mat trong qua trinh xu ly.
-7. Du lieu ca nhan chi duoc luu tru trong khoang thoi gian phu hop voi muc dich xu ly.
-8. Ben Kiem soat du lieu phai chiu trach nhiem tuan thu va chung minh su tuan thu cac nguyen tac xu ly du lieu.
+   a) Quan điểm chính trị, quan điểm tôn giáo;
+   
+   b) Tình trạng sức khỏe và đời tư được ghi trong hồ sơ bệnh án, không bao gồm thông tin về nhóm máu;
 
-## Dieu 4. Xu ly vi pham quy dinh bao ve du lieu ca nhan
 
-Co quan, to chuc, ca nhan vi pham quy dinh bao ve du lieu ca nhan tuy theo muc do co the bi xu ly ky luat, xu phat vi pham hanh chinh, xu ly hinh su theo quy dinh.
+c) Thông tin liên quan đến nguồn gốc chủng tộc, nguồn gốc dân tộc;
 
-## Dieu 5. Quan ly nha nuoc ve bao ve du lieu ca nhan
+d) Thông tin về đặc điểm di truyền được thừa hưởng hoặc có được của cá nhân;
 
-Chinh phu thong nhat quan ly nha nuoc ve bao ve du lieu ca nhan.
+d) Thông tin về thuộc tính vật lý, đặc điểm sinh học riêng của cá nhân;
 
-Noi dung quan ly nha nuoc bao gom:
-- Ban hanh van ban quy pham phap luat;
-- Xay dung chien luoc, chinh sach, de an, du an, chuong trinh, ke hoach;
-- Huong dan bien phap, quy trinh, tieu chuan bao ve du lieu;
-- Tuyen truyen, giao duc phap luat va pho bien ky nang bao ve du lieu;
-- Thanh tra, kiem tra, giai quyet khieu nai to cao va xu ly vi pham;
-- Hop tac quoc te ve bao ve du lieu ca nhan.
+e) Thông tin về đời sống tình dục, xu hướng tình dục của cá nhân;
 
-## Dieu 8. Hanh vi bi nghiem cam
+g) Dữ liệu về tội phạm, hành vi phạm tội được thu thập, lưu trữ bởi các cơ quan thực thi pháp luật;
 
-1. Xu ly du lieu ca nhan trai voi quy dinh cua phap luat ve bao ve du lieu ca nhan.
-2. Xu ly du lieu ca nhan de tao ra thong tin, du lieu nham chong lai Nha nuoc.
-3. Xu ly du lieu ca nhan de tao ra thong tin, du lieu gay anh huong toi an ninh quoc gia, trat tu an toan xa hoi, quyen va loi ich hop phap cua to chuc, ca nhan khac.
-4. Can tro hoat dong bao ve du lieu ca nhan cua co quan co tham quyen.
-5. Loi dung hoat dong bao ve du lieu ca nhan de vi pham phap luat.
+h) Thông tin khách hàng của tổ chức tín dụng, chi nhánh ngân hàng nước ngoài, tổ chức cung ứng dịch vụ trung gian thanh toán, các tổ chức được phép khác, gồm: thông tin định danh khách hàng theo quy định của pháp luật, thông tin về tài khoản, thông tin về tiền gửi, thông tin về tài sản gửi, thông tin về giao dịch, thông tin về tổ chức, cá nhân là bên bảo đảm tại tổ chức tín dụng, chi nhánh ngân hàng, tổ chức cung ứng dịch vụ trung gian thanh toán;
 
-## Dieu 9. Quyen cua chu the du lieu
+i) Dữ liệu về vị trí của cá nhân được xác định qua dịch vụ định vị;
 
-Chu the du lieu co cac quyen:
-1. Quyen duoc biet.
-2. Quyen dong y hoac khong dong y.
-3. Quyen truy cap de xem, chinh sua hoac yeu cau chinh sua.
-4. Quyen rut lai su dong y.
-5. Quyen xoa du lieu.
-6. Quyen han che xu ly du lieu. Viec han che duoc thuc hien trong 72 gio sau khi co yeu cau.
-7. Quyen yeu cau cung cap du lieu ca nhan cho ban than.
-8. Quyen phan doi xu ly du lieu. Ben kiem soat phai thuc hien yeu cau trong 72 gio sau khi nhan duoc yeu cau.
-9. Quyen khieu nai, to cao, khoi kien.
-10. Quyen yeu cau boi thuong thiet hai.
-11. Quyen tu bao ve.
+k) Dữ liệu cá nhân khác được pháp luật quy định là đặc thù và cần có biện pháp bảo mật cần thiết.
 
-## Dieu 10. Nghia vu cua chu the du lieu
+5. Bảo vệ dữ liệu cá nhân là hoạt động phòng ngừa, phát hiện, ngăn chặn, xử lý hành vi vi phạm liên quan đến dữ liệu cá nhân theo quy định của pháp luật.
 
-1. Tu bao ve du lieu ca nhan cua minh va yeu cau cac to chuc, ca nhan lien quan bao ve du lieu cua minh.
-2. Ton trong, bao ve du lieu ca nhan cua nguoi khac.
-3. Cung cap day du, chinh xac du lieu ca nhan khi dong y cho phep xu ly.
-4. Tham gia tuyen truyen, pho bien ky nang bao ve du lieu.
-5. Thuc hien quy dinh phap luat va tham gia phong chong hanh vi vi pham.
+6. Chủ thể dữ liệu là cá nhân được dữ liệu cá nhân phản ánh.
 
-## Dieu 11. Su dong y cua chu the du lieu
+7. Xử lý dữ liệu cá nhân là một hoặc nhiều hoạt động tác động tới dữ liệu cá nhân, như: thu thập, ghi, phân tích, xác nhận, lưu trữ, chỉnh sửa, công khai, kết hợp, truy cập, truy xuất, thụ hỏi, mã hóa, giải mã, sao chép, chia sẻ, truyền đưa, cung cấp, chuyển giao, xóa, hủy dữ liệu cá nhân hoặc các hành động khác có liên quan.
 
-1. Su dong y duoc ap dung doi voi tat ca cac hoat dong trong quy trinh xu ly du lieu ca nhan, tru truong hop luat co quy dinh khac.
-2. Su dong y chi co hieu luc khi chu the du lieu tu nguyen va biet ro:
-- Loai du lieu ca nhan duoc xu ly;
-- Muc dich xu ly du lieu ca nhan;
-- To chuc, ca nhan duoc xu ly du lieu ca nhan;
-- Cac quyen, nghia vu cua chu the du lieu.
-3. Su dong y phai duoc the hien ro rang, cu the bang van ban, giong noi, danh dau vao o dong y, cu phap dong y qua tin nhan, chon cac thiet lap ky thuat dong y hoac qua mot hanh dong khac the hien duoc dieu nay.
-6. Su im lang hoac khong phan hoi cua chu the du lieu khong duoc coi la su dong y.
-8. Doi voi xu ly du lieu ca nhan nhay cam, chu the du lieu phai duoc thong bao rang du lieu can xu ly la du lieu ca nhan nhay cam.
-10. Trong truong hop co tranh chap, trach nhiem chung minh su dong y thuoc ve Ben Kiem soat du lieu ca nhan, Ben Kiem soat va xu ly du lieu ca nhan.
+8. Sự đồng ý của chủ thể dữ liệu là việc thể hiện rõ ràng, tự nguyện, khẳng định việc cho phép xử lý dữ liệu cá nhân của chủ thể dữ liệu.
 
-## Dieu 12. Rut lai su dong y
+9. Bên Kiểm soát dữ liệu cá nhân là tổ chức, cá nhân quyết định mục đích và phương tiện xử lý dữ liệu cá nhân.
 
-1. Viec rut lai su dong y khong anh huong den tinh hop phap cua viec xu ly du lieu da duoc dong y truoc khi rut lai su dong y.
-4. Sau khi chu the du lieu rut lai su dong y, cac ben lien quan phai ngung xu ly du lieu cua chu the du lieu da rut lai su dong y.
+10. Bên Xử lý dữ liệu cá nhân là tổ chức, cá nhân thực hiện việc xử lý dữ liệu thay mặt cho Bên Kiểm soát dữ liệu, thông qua một hợp đồng hoặc thỏa thuận với Bên Kiểm soát dữ liệu.
 
-## Dieu 13. Thong bao xu ly du lieu ca nhan
+11. Bên Kiểm soát và xử lý dữ liệu cá nhân là tổ chức, cá nhân đồng thời quyết định mục đích, phương tiện và trực tiếp xử lý dữ liệu cá nhân.
 
-1. Viec thong bao duoc thuc hien mot lan truoc khi tien hanh hoat dong xu ly du lieu ca nhan.
-2. Noi dung thong bao gom:
-- Muc dich xu ly;
-- Loai du lieu ca nhan duoc su dung;
-- Cach thuc xu ly;
-- Thong tin ve cac to chuc, ca nhan khac co lien quan;
-- Hau qua, thiet hai khong mong muon co kha nang xay ra;
-- Thoi gian bat dau, thoi gian ket thuc xu ly du lieu.
-3. Thong bao phai the hien o dinh dang co the in, sao chep bang van ban.
 
-## Dieu 14. Cung cap du lieu ca nhan
+12. Bên thứ ba là tổ chức, cá nhân ngoài Chủ thể dữ liệu, Bên Kiểm soát dữ liệu cá nhân, Bên Xử lý dữ liệu cá nhân, Bên Kiểm soát và xử lý dữ liệu cá nhân được phép xử lý dữ liệu cá nhân.
 
-1. Chu the du lieu duoc yeu cau Ben Kiem soat du lieu ca nhan, Ben Kiem soat va xu ly du lieu ca nhan cung cap cho ban than du lieu ca nhan cua minh.
-3. Viec cung cap du lieu ca nhan duoc thuc hien trong 72 gio sau khi co yeu cau cua chu the du lieu, tru truong hop luat co quy dinh khac.
-4. Khong cung cap du lieu ca nhan trong truong hop:
-- Gay ton hai toi quoc phong, an ninh quoc gia, trat tu an toan xa hoi;
-- Viec cung cap co the anh huong toi su an toan, suc khoe the chat hoac tinh than cua nguoi khac;
-- Chu the du lieu khong dong y cung cap, cho phep dai dien hoac uy quyen nhan du lieu.
+13. Xử lý dữ liệu cá nhân tự động là hình thức xử lý dữ liệu cá nhân được thực hiện bằng phương tiện điện tử nhằm đánh giá, phân tích, dự đoán hoạt động của một người cụ thể, như: thói quen, sở thích, mức độ tin cậy, hành vi, địa điểm, xu hướng, năng lực và các trường hợp khác.
 
-## Dieu 15. Chinh sua du lieu ca nhan
+14. Chuyển dữ liệu cá nhân ra nước ngoài là hoạt động sử dụng không gian mạng, thiết bị, phương tiện điện tử hoặc các hình thức khác chuyển dữ liệu cá nhân của công dân Việt Nam tới một địa điểm ngoài lãnh thổ của nước Cộng hòa xã hội chủ nghĩa Việt Nam hoặc sử dụng một địa điểm nằm ngoài lãnh thổ của nước Cộng hòa xã hội chủ nghĩa Việt Nam để xử lý dữ liệu cá nhân của công dân Việt Nam, bao gồm:
 
-1. Chu the du lieu duoc truy cap de xem, chinh sua du lieu ca nhan cua minh; neu khong the chinh sua truc tiep thi co quyen yeu cau ben kiem soat chinh sua.
-2. Truong hop khong the thuc hien viec chinh sua, ben kiem soat thong bao toi chu the du lieu sau 72 gio ke khi nhan duoc yeu cau chinh sua.
+a) Tổ chức, doanh nghiệp, cá nhân chuyển dữ liệu cá nhân của công dân Việt Nam cho tổ chức, doanh nghiệp, bộ phận quản lý ở nước ngoài để xử lý phù hợp với mục đích đã được chủ thể dữ liệu đồng ý;
+
+b) Xử lý dữ liệu cá nhân của công dân Việt Nam bằng các hệ thống tự động nằm ngoài lãnh thổ của nước Cộng hòa xã hội chủ nghĩa Việt Nam của Bên Kiểm soát dữ liệu cá nhân, Bên Kiểm soát và xử lý dữ liệu cá nhân, Bên Xử lý dữ liệu cá nhân phù hợp với mục đích đã được chủ thể dữ liệu đồng ý.
+
+Điều 3. Nguyên tắc bảo vệ dữ liệu cá nhân
+
+1. Dữ liệu cá nhân được xử lý theo quy định của pháp luật.
+
+2. Chủ thể dữ liệu được biết về hoạt động liên quan tới xử lý dữ liệu cá nhân của mình, trừ trường hợp luật có quy định khác.
+
+3. Dữ liệu cá nhân chỉ được xử lý đúng với mục đích đã được Bên Kiểm soát dữ liệu cá nhân, Bên Xử lý dữ liệu cá nhân, Bên Kiểm soát và xử lý dữ liệu cá nhân, Bên thứ ba đang ký, tuyên bố về xử lý dữ liệu cá nhân.
+
+4. Dữ liệu cá nhân thu thập phải phù hợp và giới hạn trong phạm vi, mục đích cần xử lý. Dữ liệu cá nhân không được mua, bán dưới mọi hình thức, trừ trường hợp luật có quy định khác.
+
+5. Dữ liệu cá nhân được cập nhật, bổ sung phù hợp với mục đích xử lý.
+
+
+```
+6. Dữ liệu cá nhân được áp dụng các biện pháp bảo vệ, bảo mật trong quá trình xử lý, bao gồm cả việc bảo vệ trước các hành vi vi phạm quy định về bảo vệ dữ liệu cá nhân và phòng, chống sự mất mát, phá hủy hoặc thiệt hại do sự cố, sử dụng các biện pháp kỹ thuật.
+
+7. Dữ liệu cá nhân chỉ được lưu trữ trong khoảng thời gian phù hợp với mục đích xử lý dữ liệu, trừ trường hợp pháp luật có quy định khác.
+
+8. Bên Kiểm soát dữ liệu, Bên Kiểm soát và xử lý dữ liệu cá nhân phải chịu trách nhiệm tuân thủ các nguyên tắc xử lý dữ liệu được quy định tại khoản 1 điều này và chứng minh sự tuân thủ của mình với các nguyên tắc xử lý dữ liệu đó.
+
+Điều 4. Xử lý vi phạm quy định bảo vệ dữ liệu cá nhân
+
+Cơ quan, tổ chức, cá nhân vi phạm quy định bảo vệ dữ liệu cá nhân tùy theo mức độ có thể bị xử lý kỷ luật, xử phạt vi phạm hành chính, xử lý hình sự theo quy định.
+
+Điều 5. Quản lý nhà nước về bảo vệ dữ liệu cá nhân
+
+Chính phủ thống nhất quản lý nhà nước về bảo vệ dữ liệu cá nhân.
+
+Nội dung quản lý nhà nước về bảo vệ dữ liệu cá nhân gồm:
+
+1. Trình cơ quan nhà nước có thẩm quyền ban hành hoặc ban hành theo thẩm quyền văn bản quy phạm pháp luật và chỉ đạo, tổ chức thực hiện văn bản quy phạm pháp luật về bảo vệ dữ liệu cá nhân.
+
+2. Xây dựng và tổ chức thực hiện chiến lược, chính sách, đề án, dự án, chương trình, kế hoạch về bảo vệ dữ liệu cá nhân.
+
+3. Hướng dẫn cơ quan, tổ chức, cá nhân về biện pháp, quy trình, tiêu chuẩn bảo vệ dữ liệu cá nhân theo quy định của pháp luật.
+
+4. Tuyên truyền, giáo dục pháp luật về bảo vệ dữ liệu cá nhân; truyền thông, phổ biến kiến thức, kỹ năng bảo vệ dữ liệu cá nhân.
+
+5. Xây dựng, đào tạo, bồi dưỡng cán bộ, công chức, viên chức và người điều hành công tác bảo vệ dữ liệu cá nhân.
+
+6. Thanh tra, kiểm tra việc thực hiện quy định của pháp luật về bảo vệ dữ liệu cá nhân; giải quyết khiếu nại, tố cáo và xử lý vi phạm pháp luật về bảo vệ dữ liệu cá nhân theo quy định của pháp luật.
+```
+
+
+```
+7. Thống kê, thông tin, báo cáo về tình hình bảo vệ dữ liệu cá nhân và việc thực hiện pháp luật về bảo vệ dữ liệu cá nhân cho cơ quan nhà nước có thẩm quyền.
+
+8. Hợp tác quốc tế về bảo vệ dữ liệu cá nhân.
+
+Điều 6. Áp dụng Nghị định bảo vệ dữ liệu cá nhân, các luật liên quan và Điều ước quốc tế
+Việc bảo vệ dữ liệu cá nhân được thực hiện theo quy định các điều ước quốc tế mà nước Cộng hòa xã hội chủ nghĩa Việt Nam là thành viên, các quy định khác của Luật có liên quan và Nghị định này.
+
+Điều 7. Hợp tác quốc tế về bảo vệ dữ liệu cá nhân
+1. Xây dựng cơ chế hợp tác quốc tế để tạo điều kiện cho việc thực thi có hiệu quả pháp luật về bảo vệ dữ liệu cá nhân.
+2. Tham gia tương trợ tư pháp về bảo vệ dữ liệu cá nhân của các quốc gia khác, bao gồm thông báo, đề nghị khiếu nại, trợ giúp điều tra và trao đổi thông tin, với các biện pháp bảo vệ thích hợp để bảo vệ dữ liệu cá nhân.
+3. Tổ chức các hội nghị, hội thảo, nghiên cứu khoa học và thúc đẩy các hợp tác quốc tế trong việc thực thi pháp luật về bảo vệ dữ liệu cá nhân.
+4. Tổ chức các cuộc gặp song phương, đa phương, trao đổi kinh nghiệm xây dựng pháp luật và thực tiễn bảo vệ dữ liệu cá nhân.
+5. Chuyển giao công nghệ phục vụ bảo vệ dữ liệu cá nhân.
+
+Điều 8. Hành vi bị nghiêm cấm
+1. Xử lý dữ liệu cá nhân trái với quy định của pháp luật về bảo vệ dữ liệu cá nhân.
+2. Xử lý dữ liệu cá nhân để tạo ra thông tin, dữ liệu nhằm chống lại Nhà nước Cộng hòa xã hội chủ nghĩa Việt Nam.
+3. Xử lý dữ liệu cá nhân để tạo ra thông tin, dữ liệu gây ảnh hưởng tới an ninh quốc gia, trật tự an toàn xã hội, quyền và lợi ích hợp pháp của tổ chức, cá nhân khác.
+4. Cản trở hoạt động bảo vệ dữ liệu cá nhân của cơ quan có thẩm quyền.
+5. Lợi dụng hoạt động bảo vệ dữ liệu cá nhân để vi phạm pháp luật.
+
+Chương II
+HOẠT ĐỘNG BẢO VỆ DỮ LIỆU CÁ NHÂN
+
+Mục 1
+QUYỀN VÀ NGHĨA VỤ CỦA CHỦ THỂ DỮ LIỆU
+
+Điều 9. Quyền của chủ thể dữ liệu
+
+1. Quyền được biết
+Chủ thể dữ liệu được biết về hoạt động xử lý dữ liệu cá nhân của mình, trừ trường hợp luật có quy định khác.
+
+2. Quyền đồng ý
+Chủ thể dữ liệu được đồng ý hoặc không đồng ý cho phép xử lý dữ liệu cá nhân của mình, trừ trường hợp quy định tại Điều 17 Nghị định này.
+
+3. Quyền truy cập
+Chủ thể dữ liệu được truy cập để xem, chỉnh sửa hoặc yêu cầu chỉnh sửa dữ liệu cá nhân của mình, trừ trường hợp luật có quy định khác.
+
+4. Quyền rút lại sự đồng ý
+Chủ thể dữ liệu được quyền rút lại sự đồng ý của mình, trừ trường hợp luật có quy định khác.
+
+5. Quyền xóa dữ liệu
+Chủ thể dữ liệu được xóa hoặc yêu cầu xóa dữ liệu cá nhân của mình, trừ trường hợp luật có quy định khác.
+
+6. Quyền hạn chế xử lý dữ liệu
+a) Chủ thể dữ liệu được yêu cầu hạn chế xử lý dữ liệu cá nhân của mình, trừ trường hợp luật có quy định khác;
+b) Việc hạn chế xử lý dữ liệu được thực hiện trong 72 giờ sau khi có yêu cầu của chủ thể dữ liệu, với toàn bộ dữ liệu cá nhân mà chủ thể dữ liệu yêu cầu hạn chế, trừ trường hợp luật có quy định khác.
+
+7. Quyền cung cấp dữ liệu
+Chủ thể dữ liệu được yêu cầu Bên Kiểm soát dữ liệu cá nhân, Bên Kiểm soát và xử lý dữ liệu cá nhân cung cấp cho bản thân dữ liệu cá nhân của mình, trừ trường hợp luật có quy định khác.
+
+8. Quyền phân đối xử lý dữ liệu
+
+a) Chủ thể dữ liệu được phân đối Bên Kiểm soát dữ liệu cá nhân, Bên Kiểm soát và xử lý dữ liệu cá nhân xử lý dữ liệu cá nhân mình nhằm ngăn chặn hoặc hạn chế tiết lộ dữ liệu cá nhân hoặc sử dụng cho mục đích quảng cáo, tiếp thị, trừ trường hợp luật có quy định khác;
+
+b) Bên Kiểm soát dữ liệu cá nhân, Bên Kiểm soát và xử lý dữ liệu cá nhân thực hiện yêu cầu của chủ thể dữ liệu trong 72 giờ sau khi nhận được yêu cầu, trừ trường hợp luật có quy định khác.
+
+9. Quyền khiếu nại, tố cáo, khởi kiện
+
+Chủ thể dữ liệu có quyền khiếu nại, tố cáo hoặc khởi kiện theo quy định của pháp luật.
+
+10. Quyền yêu cầu bồi thường thiệt hại
+
+Chủ thể dữ liệu có quyền yêu cầu bồi thường thiệt hại theo quy định của pháp luật khi xảy ra vi phạm quy định về bảo vệ dữ liệu cá nhân của mình, trừ trường hợp các bên có thỏa thuận khác hoặc luật có quy định khác.
+
+11. Quyền tự bảo vệ
+
+Chủ thể dữ liệu có quyền tự bảo vệ theo quy định của Bộ luật Dân sự, luật khác có liên quan và Nghị định này, hoặc yêu cầu cơ quan, tổ chức có thẩm quyền thực hiện các phương thức bảo vệ quyền dân sự theo quy định tại Điều 11 Bộ luật Dân sự.
+
+Điều 10. Nghĩa vụ của chủ thể dữ liệu
+
+1. Tự bảo vệ dữ liệu cá nhân của mình; yêu cầu các tổ chức, cá nhân khác có liên quan bảo vệ dữ liệu cá nhân của mình.
+
+2. Tôn trọng, bảo vệ dữ liệu cá nhân của người khác.
+
+3. Cung cấp đầy đủ, chính xác dữ liệu cá nhân khi đồng ý cho phép xử lý dữ liệu cá nhân.
+
+4. Tham gia tuyên truyền, phổ biến kỹ năng bảo vệ dữ liệu cá nhân.
+
+5. Thực hiện quy định của pháp luật về bảo vệ dữ liệu cá nhân và tham gia phòng, chống các hành vi vi phạm quy định về bảo vệ dữ liệu cá nhân.
+
+
+**Mục 2**  
+**BẢO VỆ DỮ LIỆU CÁ NHÂN**  
+**TRONG QUÁ TRÌNH XỬ LÝ DỮ LIỆU CÁ NHÂN**  
+
+**Điều 11. Sự đồng ý của chủ thể dữ liệu**  
+
+1. Sự đồng ý của chủ thể dữ liệu được áp dụng đối với tất cả các hoạt động trong quy trình xử lý dữ liệu cá nhân, trừ trường hợp luật có quy định khác.  
+
+2. Sự đồng ý của chủ thể dữ liệu có hiệu lực khi chủ thể dữ liệu tự nguyện và biết rõ các nội dung sau:  
+   a) Loại dữ liệu cá nhân được xử lý;  
+   b) Mục đích xử lý dữ liệu cá nhân;  
+   c) Tổ chức, cá nhân được xử lý dữ liệu cá nhân;  
+   d) Các quyền, nghĩa vụ của chủ thể dữ liệu.  
+
+3. Sự đồng ý của chủ thể dữ liệu phải được thể hiện rõ ràng, cụ thể bằng văn bản, gồm nói, đánh dấu vào ô đồng ý, cú pháp đồng ý qua tin nhắn, chọn các thiết lập kỹ thuật đồng ý hoặc một hành động khác thể hiện được điều này.  
+
+4. Sự đồng ý phải được tiến hành cho cùng một mục đích. Khi có nhiều mục đích, Bên Kiểm soát dữ liệu cá nhân, Bên Kiểm soát và xử lý dữ liệu cá nhân liệt kê các mục đích để chủ thể dữ liệu đồng ý với một hoặc nhiều mục đích nêu ra.  
+
+5. Sự đồng ý của chủ thể dữ liệu phải được thể hiện ở một định dạng có thể được in, sao chép bằng văn bản, bao gồm cả định dạng điện tử hoặc định dạng kiên chứng được.  
+
+6. Sự im lặng hoặc không phản hồi của chủ thể dữ liệu không được coi là sự đồng ý.  
+
+7. Chủ thể dữ liệu có thể đồng ý một phần hoặc với điều kiện kèm theo.  
+
+8. Đối với xử lý dữ liệu cá nhân nhạy cảm, chủ thể dữ liệu phải được thông báo rằng dữ liệu cần xử lý là dữ liệu cá nhân nhạy cảm.  
+
+9. Sự đồng ý của chủ thể dữ liệu có hiệu lực cho tới khi chủ thể dữ liệu có quyết định khác hoặc khi cơ quan nhà nước có thẩm quyền yêu cầu bằng văn bản.  
+
+10. Trong trường hợp hợp có tranh chấp, trách nhiệm chứng minh sự đồng ý của chủ thể dữ liệu thuộc về Bên Kiểm soát dữ liệu cá nhân, Bên Kiểm soát và xử lý dữ liệu cá nhân.
+
+
+11. Thông qua việc ủy quyền theo quy định của Bộ luật Dân sự, tổ chức, cá nhân có thể thay mặt chủ thể dữ liệu thực hiện các thủ tục liên quan tới xử lý dữ liệu cá nhân của chủ thể dữ liệu với Bên Kiểm soát dữ liệu cá nhân, Bên Kiểm soát và xử lý dữ liệu cá nhân trong trường hợp chủ thể dữ liệu đã biết rõ và đồng ý theo quy định tại khoản 3 Điều này, trừ trường hợp quy định khác.
+
+**Điều 12. Rút lại sự đồng ý**
+
+1. Việc rút lại sự đồng ý không ảnh hưởng đến tính hợp pháp của việc xử lý dữ liệu đã được đồng ý trước khi rút lại sự đồng ý.
+
+2. Việc rút lại sự đồng ý phải được thực hiện ở một định dạng có thể được in, sao chép bằng văn bản, bao gồm cả dưới dạng điện tử hoặc định dạng kiềm chứng được.
+
+3. Khi nhận yêu cầu rút lại sự đồng ý của chủ thể dữ liệu, Bên Kiểm soát dữ liệu cá nhân, Bên Kiểm soát và xử lý dữ liệu cá nhân thông báo cho chủ thể dữ liệu về hậu quả, thiệt hại có thể xảy ra khi rút lại sự đồng ý.
+
+4. Sau khi thực hiện quy định tại khoản 2 Điều này, Bên Kiểm soát dữ liệu, Bên Xử lý dữ liệu, Bên Kiểm soát và xử lý dữ liệu, Bên thứ ba phải ngừng và yêu cầu các tổ chức, cá nhân có liên quan ngừng xử lý dữ liệu của chủ thể dữ liệu đã rút lại sự đồng ý.
+
+**Điều 13. Thông báo xử lý dữ liệu cá nhân**
+
+1. Việc thông báo được thực hiện một lần trước khi tiến hành đối với hoạt động xử lý dữ liệu cá nhân.
+
+2. Nội dung thông báo cho chủ thể dữ liệu về xử lý dữ liệu cá nhân:
+
+   a) Mục đích xử lý;
+
+   b) Loại dữ liệu cá nhân được sử dụng liên quan tới mục đích xử lý quy định tại điểm a khoản 2 Điều này;
+
+   c) Cách thức xử lý;
+
+   d) Thông tin về các tổ chức, cá nhân khác có liên quan tới mục đích xử lý quy định tại điểm a khoản 2 Điều này;
+
+   e) Hậu quả, thiệt hại không mong muốn có khả năng xảy ra;
+
+   f) Thời gian bắt đầu, thời gian kết thúc xử lý dữ liệu.
+
+3. Việc thông báo cho chủ thể dữ liệu phải được thực hiện ở một định dạng có thể được in, sao chép bằng văn bản, bao gồm cả dưới dạng điện tử hoặc định dạng kiềm chứng được.
+
+
+4. Bên Kiểm soát dữ liệu cá nhân, Bên Kiểm soát và xử lý dữ liệu cá nhân không cần thực hiện quy định tại khoản 1 Điều này trong các trường hợp sau:
+
+a) Chủ thể dữ liệu đã biết rõ và đồng ý toàn bộ nội dung quy định tại khoản 1 và khoản 2 Điều này trước khi đồng ý cho Bên Kiểm soát dữ liệu cá nhân, Bên Kiểm soát và xử lý dữ liệu cá nhân tiến hành thu thập dữ liệu cá nhân, phù hợp với các quy định của Điều 9 Nghị định này;
+
+b) Dữ liệu cá nhân được xử lý bởi cơ quan nhà nước có thẩm quyền với mục đích phục vụ hoạt động của cơ quan nhà nước theo quy định của pháp luật.
+
+Điều 14. Cung cấp dữ liệu cá nhân
+
+1. Chủ thể dữ liệu được yêu cầu Bên Kiểm soát dữ liệu cá nhân, Bên Kiểm soát và xử lý dữ liệu cá nhân cung cấp bản thân dữ liệu cá nhân của mình.
+
+2. Bên Kiểm soát dữ liệu cá nhân, Bên Kiểm soát và xử lý dữ liệu cá nhân:
+
+a) Được cung cấp dữ liệu cá nhân của chủ thể dữ liệu cho tổ chức, cá nhân khác khi có sự đồng ý của chủ thể dữ liệu, trừ trường hợp pháp luật có quy định khác;
+
+b) Thay mặt chủ thể dữ liệu cung cấp dữ liệu cá nhân của chủ thể dữ liệu cho tổ chức hoặc cá nhân khác khi chủ thể dữ liệu đồng ý cho phép đại diện và ủy quyền, trừ trường hợp pháp luật có quy định khác.
+
+3. Việc cung cấp dữ liệu cá nhân của chủ thể dữ liệu được Bên Kiểm soát dữ liệu cá nhân, Bên Kiểm soát và xử lý dữ liệu cá nhân thực hiện trong 72 giờ sau khi có yêu cầu của chủ thể dữ liệu, trừ trường hợp pháp luật có quy định khác.
+
+4. Bên Kiểm soát dữ liệu cá nhân, Bên Kiểm soát và xử lý dữ liệu cá nhân không cung cấp dữ liệu cá nhân trong trường hợp:
+
+a) Gây tổn hại tới quốc phòng, an ninh quốc gia, trật tự an toàn xã hội;
+
+b) Việc cung cấp dữ liệu cá nhân của chủ thể dữ liệu có ảnh hưởng tới sự an toàn, sức khỏe thể chất hoặc tinh thần của người khác;
+
+c) Chủ thể dữ liệu không đồng ý cung cấp, cho phép đại diện hoặc ủy quyền nhận dữ liệu cá nhân.
+
+5. Hình thức yêu cầu cung cấp dữ liệu cá nhân:
+
+a) Chủ thể dữ liệu trực tiếp hoặc ủy quyền khác đến trụ sở Bên Kiểm soát dữ liệu cá nhân, Bên Kiểm soát và xử lý dữ liệu cá nhân yêu cầu cung cấp dữ liệu cá nhân.
+
+
+Người tiếp nhận yêu cầu có trách nhiệm hướng dẫn tổ chức, cá nhân yêu cầu điền các nội dung vào Phiếu yêu cầu cung cấp dữ liệu cá nhân.
+
+Trường hợp tổ chức, cá nhân yêu cầu cung cấp thông tin không biết chữ hoặc bị khuyết tật không thể viết yêu cầu thì người tiếp nhận yêu cầu cung cấp thông tin có trách nhiệm giúp điền các nội dung vào Phiếu yêu cầu cung cấp dữ liệu cá nhân;
+
+b) Gửi Phiếu yêu cầu cung cấp dữ liệu cá nhân theo Mẫu số 01, 02 tại Phụ lục của Nghị định này qua mạng điện tử, dịch vụ bưu chính, fax đến Bên Kiểm soát dữ liệu cá nhân, Bên Kiểm soát và xử lý dữ liệu cá nhân.
+
+6. Phiếu yêu cầu cung cấp dữ liệu cá nhân phải được thể hiện bằng tiếng Việt gồm các nội dung chính sau đây:
+
+a) Họ, tên; nơi cư trú, địa chỉ; số chứng minh nhân dân, thẻ căn cước công dân hoặc số hộ chiếu của người yêu cầu; số fax, điện thoại, địa chỉ thư điện tử (nếu có);
+
+b) Dữ liệu cá nhân được yêu cầu cung cấp, trong đó chỉ rõ tên văn bản, hồ sơ, tài liệu;
+
+c) Hình thức cung cấp dữ liệu cá nhân;
+
+d) Lý do, mục đích yêu cầu cung cấp dữ liệu cá nhân.
+
+7. Trường hợp yêu cầu cung cấp dữ liệu cá nhân quy định tại khoản 2 Điều này thì phải kèm theo văn bản đồng ý của cá nhân, tổ chức liên quan.
+
+8. Tiếp nhận yêu cầu cung cấp dữ liệu cá nhân
+
+a) Bên Kiểm soát dữ liệu cá nhân, Bên Kiểm soát và xử lý dữ liệu cá nhân có trách nhiệm tiếp nhận yêu cầu cung cấp dữ liệu cá nhân và theo dõi quá trình, danh sách cung cấp dữ liệu cá nhân theo yêu cầu;
+
+b) Trường hợp dữ liệu cá nhân được yêu cầu không thuộc thẩm quyền thì Bên Kiểm soát dữ liệu cá nhân, Bên Kiểm soát và xử lý dữ liệu cá nhân nhận được yêu cầu phải thông báo và hướng dẫn tổ chức, cá nhân yêu cầu đến cơ quan có thẩm quyền hoặc thông báo rõ ràng việc không thể cung cấp dữ liệu cá nhân;
+
+9. Giải quyết yêu cầu cung cấp dữ liệu cá nhân
+
+Khi nhận được yêu cầu cung cấp dữ liệu cá nhân hợp lệ, Bên Kiểm soát dữ liệu cá nhân, Bên Kiểm soát và xử lý dữ liệu cá nhân có trách nhiệm cung cấp dữ liệu cá nhân thông báo về thời hạn, địa điểm, hình thức cung cấp dữ liệu cá nhân; chi phí thực tế đề xuất, sao, chụp, gửi thông tin qua dịch vụ bưu chính,
+
+
+**Điều 15. Chỉnh sửa dữ liệu cá nhân**
+
+1. Chủ thể dữ liệu:
+
+   a) Được truy cập để xem, chỉnh sửa dữ liệu cá nhân của mình sau khi đã được Bên Kiểm soát dữ liệu cá nhân, Bên Kiểm soát và xử lý dữ liệu cá nhân thu thập theo sự đồng ý, trừ trường hợp luật có quy định khác;
+
+   b) Trường hợp không thể chỉnh sửa trực tiếp lý do kỹ thuật hoặc lý do khác, chủ thể dữ liệu yêu cầu Bên Kiểm soát dữ liệu cá nhân, Bên Kiểm soát và xử lý dữ liệu cá nhân chỉnh sửa dữ liệu cá nhân của mình.
+
+2. Bên Kiểm soát dữ liệu cá nhân, Bên Kiểm soát và xử lý dữ liệu cá nhân chỉnh sửa dữ liệu cá nhân của chủ thể dữ liệu sau khi được chủ thể dữ liệu cá nhân đồng ý ngay khi có thể hoặc theo quy định của pháp luật chuyên ngành. Trường hợp không thể thực hiện thì thông báo tới chủ thể dữ liệu sau 72 giờ kể khi nhận được yêu cầu chỉnh sửa dữ liệu cá nhân của chủ thể dữ liệu.
+
+3. Bên Xử lý dữ liệu cá nhân, Bên thứ ba được chỉnh sửa dữ liệu cá nhân của chủ thể dữ liệu sau khi được Bên Kiểm soát dữ liệu cá nhân, Bên Kiểm soát và xử lý dữ liệu cá nhân đồng ý bằng văn bản và biết rõ ràng đã có sự đồng ý của chủ thể dữ liệu.
+
+**Điều 16. Lưu trữ, xóa, hủy dữ liệu cá nhân**
+
+1. Chủ thể dữ liệu được yêu cầu Bên Kiểm soát dữ liệu cá nhân, Bên Kiểm soát và xử lý dữ liệu cá nhân xóa dữ liệu cá nhân của mình trong các trường hợp sau:
+
+   a) Nhận thấy không còn cần thiết cho mục đích thu thập dữ đồng ý và chấp nhận các thiệt hại có thể xảy ra khi yêu cầu xóa dữ liệu;
+
+   b) Rút lại sự đồng ý;
+
+   c) Phân đối việc xử lý dữ liệu và Bên Kiểm soát dữ liệu cá nhân, Bên Kiểm soát và xử lý dữ liệu cá nhân không có lý do chính đáng để tiếp tục xử lý;
+
+   d) Dữ liệu cá nhân được xử lý không đúng với mục đích đã đồng ý hoặc việc xử lý dữ liệu cá nhân là vi phạm quy định của pháp luật;
+
+   d) Dữ liệu cá nhân phải xóa theo quy định của pháp luật.
+
+2. Việc xóa dữ liệu sẽ không áp dụng khi có đề nghị của chủ thể dữ liệu trong các trường hợp:
+
+
+a) Pháp luật quy định không cho phép xóa dữ liệu;
+
+b) Dữ liệu cá nhân được xử lý bởi cơ quan nhà nước có thẩm quyền với mục đích phục vụ hoạt động của cơ quan nhà nước theo quy định của pháp luật;
+
+c) Dữ liệu cá nhân đã được công khai theo quy định của pháp luật;
+
+d) Dữ liệu cá nhân được xử lý nhằm phục vụ yêu cầu pháp lý, nghiên cứu khoa học, thống kê theo quy định của pháp luật;
+
+d) Trong trường hợp tình trạng khẩn cấp về quốc phòng, an ninh quốc gia, trật tự an toàn xã hội, thảm họa lớn, dịch bệnh nguy hiểm, khi có nguy cơ de dọa an ninh, quốc phòng nhưng chưa đến mức ban bố tình trạng khẩn cấp; phòng, chống bạo loạn, khủng bố, phòng, chống tội phạm và vi phạm pháp luật;
+
+e) Ứng phó với tình huống khẩn cấp de dọa đến tính mạng, sức khỏe hoặc sự an toàn của chủ thể dữ liệu hoặc cá nhân khác.
+
+3. Trường hợp doanh nghiệp chia, tách, sáp nhập, hợp nhất, giải thể thì dữ liệu cá nhân được chuyển giao theo quy định của pháp luật.
+
+4. Trường hợp chia, tách, sáp nhập cơ quan, tổ chức, đơn vị hành chính và tổ chức lại, chuyển đổi hình thức sở hữu doanh nghiệp nhà nước thì dữ liệu cá nhân được chuyển giao theo quy định của pháp luật.
+
+5. Việc xóa dữ liệu được thực hiện trong 72 giờ sau khi có yêu cầu của chủ thể dữ liệu với toàn bộ dữ liệu cá nhân mà Bên Kiểm soát dữ liệu cá nhân, Bên Kiểm soát và xử lý dữ liệu cá nhân thu thập được, trừ trường hợp pháp luật có quy định khác.
+
+6. Bên Kiểm soát dữ liệu cá nhân, Bên Kiểm soát và xử lý dữ liệu cá nhân, Bên Xử lý dữ liệu cá nhân, Bên thứ ba lưu trữ dữ liệu cá nhân theo hình thức phù hợp với hoạt động của mình và có biện pháp bảo vệ dữ liệu cá nhân theo quy định của pháp luật.
+
+7. Bên Kiểm soát dữ liệu cá nhân, Bên Kiểm soát và xử lý dữ liệu cá nhân, Bên Xử lý dữ liệu cá nhân, Bên thứ ba xóa không thể khôi phục trong trường hợp:
+
+a) Xử lý dữ liệu không đúng mục đích hoặc đã hoàn thành mục đích xử lý dữ liệu cá nhân được chủ thể dữ liệu đồng ý;
+
+b) Việc lưu trữ dữ liệu cá nhân không còn cần thiết đối với hoạt động của Bên Kiểm soát dữ liệu cá nhân, Bên Kiểm soát và xử lý dữ liệu cá nhân, Bên Xử lý dữ liệu cá nhân, Bên thứ ba;
